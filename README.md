@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Covid Tracker
+
+A webpage to keep track of corona virus statistics and visualize Global and country wise data using chart.js.
+
+### [Live Site](https://gifted-euclid-13d127.netlify.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
